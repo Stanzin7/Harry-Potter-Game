@@ -12,8 +12,6 @@ Consists of three parts-
 2. Get your house
 3. Treasure Hunt
 
-https://user-images.githubusercontent.com/74983536/128004726-621922ec-0da7-44f0-a115-323c9c53a19b.mp4
-
 Memory Game:
 
 Swapping the cards and finding similar ones!
